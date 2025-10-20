@@ -1,4 +1,4 @@
-This repository contains the work conducted during my summer internship at UQAM, in the first year of my master’s degree. <br/>
+This repository contains the work conducted during my summer internship at UQAM, in the first year of my master’s degree (my report is here if you're interested). <br/>
 The code is applied to the HAM10000 dataset, available here: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000 <br/>
 <br/>
 The project focuses on developing a pipeline to extract and align the shapes of moles in dermoscopic images using a tailored mathematical representation.**For details, see p.8-10 of my report.**<br/>
