@@ -9,3 +9,5 @@ Finally, we compared this feature extraction pipeline with the current state-of-
 - **preprocessing** contains the code to segment the moles and obtain their shape-based representation.<br/>
 - **modeling** contains the code used to build and compare the pixel-based approach to the shape-based approach, using a nested CV.<br/>
 - **evaluation** contains the notebook used to build confidence intervals and perform statistical tests on our models, based on a bootstrapping approach. <br/>
+
+ **Preprocessed database available here:** https://drive.google.com/drive/folders/1m8beM0viLixcCELAB5GGaP8yJT8YvV4h?usp=sharing
